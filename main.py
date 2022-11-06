@@ -1,7 +1,5 @@
 # Author:    Nirmal Selvarathinam
 # Created:   18.06.2021
-# (c) Copyright by Microsoft
-
 
 import logging
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
